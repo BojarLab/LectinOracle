@@ -1,0 +1,6 @@
+- all_meta.csv: contains sample information for all glycan array experiments gathered for this study
+- all_arrays.csv: contains merged data for all 1,392 unique protein sequences in our dataset
+- stored_protein_embeddings.pkl: dictionary of type "protein sequence:ESM-1b representation"
+- LectinOracle_565.pt: PyTorch model weights for a trained LectinOracle model
+- background_correction_for_565.csv: contains prediction background correction for each glycan motif
+- glycan_trisaccharide_motifs.pkl: contains trisaccharide motifs from glycans in dataset
