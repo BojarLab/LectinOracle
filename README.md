@@ -1,6 +1,6 @@
 # LectinOracle
 
-Contains code and all necessary files to train and use LectinOracle models described in Lundstr&oslash m et al, 2021.
+Contains code and all necessary files to train and use LectinOracle models described in Lundstrøm et al., 2021.
 
 LectinOracle is a deep learning-based model to predict the interaction of proteins and complex carbohydrates (glycans) based on their sequences, making it potent and easily generalizable. We used a pre-trained transformer-based architecture for analyzing the protein part and a graph convolutional neural network for analyzing the glycan sequences.
 
